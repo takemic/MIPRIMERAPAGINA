@@ -1,0 +1,159 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Eugene-Delacroix.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 47px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  background-image: none;
+  margin: 295px auto 60px;
+  padding: 9px 24px 11px 23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1107px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 34px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 275px;
+  height: 285px;
+  margin: 33px auto 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 275px;
+  height: 285px;
+  margin: -285px auto 0;
+}
+
+.u-section-2 .u-image-3 {
+  width: 275px;
+  height: 285px;
+  margin: -285px 0 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 900;
+  font-size: 1.5rem;
+  margin: 24px 889px 0 24px;
+}
+
+.u-section-2 .u-text-3 {
+  font-weight: 900;
+  font-size: 1.5rem;
+  width: 252px;
+  margin: -26px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-weight: 900;
+  font-size: 1.5rem;
+  margin: -26px 0 0 876px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 713px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 676px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-2 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 493px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 313px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 313px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 313px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 113px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 88px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 113px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 177px;
+}
